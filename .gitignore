@@ -1,0 +1,8 @@
+protected/config/main.php
+protected/config/database.php
+protected/runtime/info.log
+protected/tests/
+protected/data
+protected/runtime/info.*
+*.php~
+fbinit.php
